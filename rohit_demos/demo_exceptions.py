@@ -1,6 +1,6 @@
 #! /usr/bin/env pythong3
 # Author: Rohit Ghodke
-# Description:
+# Description: loops
 
 """
 Docstring:
